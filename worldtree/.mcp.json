@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "worldtree": {
+      "type": "http",
+      "url": "https://worldtree.archines.co.jp/api/mcp"
+    }
+  }
+}

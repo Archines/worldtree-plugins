@@ -1,0 +1,13 @@
+interface:
+  display_name: WorldTree 共通業務アシスタント
+  short_description: 会社を自動識別し、社内知識・タスク・意思決定を自然な会話から活用
+  default_prompt: $worldtree-company-os で、うちの会社の情報を踏まえて次の打ち合わせを準備して
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

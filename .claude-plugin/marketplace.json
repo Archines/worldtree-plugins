@@ -1,0 +1,19 @@
+{
+  "name": "worldtree-plugins",
+  "owner": {
+    "name": "Archines Inc.",
+    "url": "https://archines.co.jp"
+  },
+  "description": "Claude plugins for WorldTree, the company knowledge OS by Archines Inc.",
+  "plugins": [
+    {
+      "name": "worldtree",
+      "source": "./worldtree",
+      "description": "Connect Claude to WorldTree and work with your company's knowledge, meeting notes, tasks, and decisions.",
+      "category": "productivity",
+      "homepage": "https://worldtree.archines.co.jp/connectors/worldtree",
+      "repository": "https://github.com/Archines/worldtree-plugins",
+      "license": "MIT"
+    }
+  ]
+}

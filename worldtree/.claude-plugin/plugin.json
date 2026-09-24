@@ -1,0 +1,14 @@
+{
+  "name": "worldtree",
+  "displayName": "WorldTree",
+  "version": "0.1.0",
+  "description": "WorldTree（社内のナレッジ・議事録・タスク・意思決定を育てる企業 OS）に Claude を接続し、会社固有の文脈を踏まえて調べもの・相談・タスク管理を進めるプラグイン。WorldTree への記録は、頼まれたときか了承を得たときだけ行う。",
+  "author": {
+    "name": "Archines Inc.",
+    "url": "https://archines.co.jp"
+  },
+  "homepage": "https://worldtree.archines.co.jp/connectors/worldtree",
+  "repository": "https://github.com/Archines/worldtree-plugins",
+  "license": "MIT",
+  "keywords": ["knowledge-base", "worldtree", "tasks", "decisions", "mcp"]
+}
