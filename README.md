@@ -28,6 +28,12 @@ WorldTree は、社内のナレッジ記事・議事録・タスク・意思決�
 /plugin install worldtree@worldtree-plugins
 ```
 
+`Archines/worldtree-plugins` の形は、既定で SSH を使って GitHub から取得します。GitHub に SSH 鍵を登録していない場合は、1 行目を HTTPS の URL に置き換えてください。
+
+```text
+/plugin marketplace add https://github.com/Archines/worldtree-plugins.git
+```
+
 インストール後、`/mcp` を開いて `plugin:worldtree:worldtree` を選び、サインインします。ブラウザで WorldTree のログイン画面が開くので、WorldTree のアカウントでログインし、接続する組織を選んでください。
 
 ## 必要なもの

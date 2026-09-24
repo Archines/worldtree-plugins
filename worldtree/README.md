@@ -21,6 +21,12 @@ Claude Code で次を実行します。
 /plugin install worldtree@worldtree-plugins
 ```
 
+`Archines/worldtree-plugins` の形は、既定で SSH を使って GitHub から取得します。GitHub に SSH 鍵を登録していない場合は、1 行目を HTTPS の URL に置き換えてください。
+
+```text
+/plugin marketplace add https://github.com/Archines/worldtree-plugins.git
+```
+
 1. `/mcp` を開き、`plugin:worldtree:worldtree` を選んでサインインします。ブラウザで WorldTree のログイン画面が開きます。
 2. WorldTree のアカウントでログインし、接続する組織を選んで許可します。1 つの接続は 1 つの組織に固定されます。
 3. 「どの組織につながってる？」と聞くと、接続先の組織名を確認できます。
