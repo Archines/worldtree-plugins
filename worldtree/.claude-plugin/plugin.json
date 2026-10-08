@@ -8,6 +8,7 @@
     "url": "https://archines.co.jp"
   },
   "homepage": "https://worldtree.archines.co.jp/connectors/worldtree",
+  "privacyPolicyUrl": "https://worldtree.archines.co.jp/privacy",
   "repository": "https://github.com/Archines/worldtree-plugins",
   "license": "MIT",
   "keywords": ["knowledge-base", "worldtree", "tasks", "decisions", "mcp"]
