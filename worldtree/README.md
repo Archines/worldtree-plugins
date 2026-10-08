@@ -2,7 +2,7 @@
 
 WorldTree の MCP サーバーへの接続と、スキル「WorldTree 共通業務アシスタント」の一式です。生成 AI が会社固有の文脈を踏まえて、調べもの・相談・タスク管理を進められるようにします。
 
-どちらも公開された形式なので、Claude・ChatGPT・Codex など、多くの生成 AI で使えます。AI ごとの入れ方は、[リポジトリ直下の README](../README.md#ai-ごとの入れ方) を参照してください。Claude Code では、このフォルダがそのままプラグインになります。
+どちらも公開された形式なので、Claude・ChatGPT・Codex など、多くの生成 AI で使えます。AI ごとの入れ方は、[リポジトリ直下の README](https://github.com/Archines/worldtree-plugins#ai-ごとの入れ方) を参照してください。Claude Code では、このフォルダがそのままプラグインになります。
 
 ## 含まれるもの
 
